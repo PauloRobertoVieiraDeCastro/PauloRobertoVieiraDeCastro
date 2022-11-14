@@ -1,4 +1,7 @@
-### Hi there 👋
+Olá, pessoal. Seham bem-vindos e bem-vindas ao meu perfil.
+Sou formado em engenharia química pela UFRJ e análise de sistemas pela UNESA. Estou começando a fazer pós-graduação em inteligência artificial pela PUC-MG.
+Apesar de não ser um programador especializado, consigo transitar no front-end, com conhecimentos em HTML/CSS e JavaScript, além de Bootstrap e um pouco de jQuery. Planejo ampliar meus conhecimentos em front-end, através do framework React e Vue. Transito no back-end com conhecimentos em Python e php, além de um pouco de conhecimento em Fortran e Java. Em banco de dados, já trabalhei com MySQL e SQLite.
+Tenho interesse em atividades e desenvolvimento de códigos em machine learning, aplicados à economia e política.
 
 <!--
 **PauloRobertoVieiraDeCastro/PauloRobertoVieiraDeCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
