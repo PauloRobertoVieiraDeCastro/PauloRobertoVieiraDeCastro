@@ -7,7 +7,7 @@
 <ul>
   <li>😄 ele/dele</li>
   <li>📫 Meu contato: vieira.castro.1987@gmail.com ou https://www.linkedin.com/in/paulo-castro-579b592a/</li>
-  <li>🌱 Tenho estudado álgebra, técnicas de machine learning, econometria e ciências políticas.</li>
+  <li>🌱 Tenho revisto álgebra, álgebra linear e estudado técnicas de machine learning, econometria e ciências políticas.</li>
  </ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)
