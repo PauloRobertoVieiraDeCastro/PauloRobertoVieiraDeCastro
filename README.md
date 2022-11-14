@@ -6,11 +6,11 @@
 <p>😄 ele/dele</p>
 <p>📫 Meu contato: vieira.castro.1987@gmail.com ou https://www.linkedin.com/in/paulo-castro-579b592a/</p>
 
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)</>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)
   
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
 PauloRobertoVieiraDeCastro&langs_count=8)](https://github.com/
-PauloRobertoVieiraDeCastro/github-readme-stats)</p>
+PauloRobertoVieiraDeCastro/github-readme-stats)
 
 
 <!--
