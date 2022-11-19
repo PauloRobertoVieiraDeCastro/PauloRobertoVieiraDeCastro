@@ -19,7 +19,7 @@
  
  
 
-  
+<h4>Tecnologias</h4>
 <div>
   <img width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
