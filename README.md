@@ -11,9 +11,9 @@
   <li>🌱 Tenho revisto álgebra, álgebra linear e estudado técnicas de machine learning, econometria e ciências políticas.</li>
  </ul>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro&theme=blue-green)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&theme=blue-green)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
