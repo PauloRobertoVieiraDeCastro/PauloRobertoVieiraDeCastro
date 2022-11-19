@@ -13,12 +13,11 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro&theme=blue-green" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&theme=blue-green&langs_count=8" />
 </div>
 
  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&theme=blue-green)](https://github.com /PauloRobertoVieiraDeCastro/github-readme-stats)
+ 
 
   
 <div>
