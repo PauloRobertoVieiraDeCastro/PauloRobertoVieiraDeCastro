@@ -12,8 +12,8 @@
  </ul>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro&theme=blue-green" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&theme=blue-green&langs_count=8" />
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro&theme=blue-green" />
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&theme=blue-green&langs_count=8" />
 </div>
 
  
