@@ -17,6 +17,8 @@
 
 <div>
   <img width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+  <img width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
 ##
