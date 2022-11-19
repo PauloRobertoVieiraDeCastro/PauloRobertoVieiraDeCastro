@@ -40,6 +40,10 @@
   <a href="mailto: vieira.castro.1987@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<div>
+  <img src="https://profile-counter.glitch.me/PauloRobertoVieiraDeCastro/count.svg"/>
+</div>
+
 <!--
 **PauloRobertoVieiraDeCastro/PauloRobertoVieiraDeCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
