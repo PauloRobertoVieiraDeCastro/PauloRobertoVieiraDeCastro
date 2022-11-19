@@ -15,6 +15,10 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro)](https://github.com/PauloRobertoVieiraDeCastro/github-readme-stats)
 
+<div>
+  <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 <!--
 **PauloRobertoVieiraDeCastro/PauloRobertoVieiraDeCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
