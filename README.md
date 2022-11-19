@@ -7,13 +7,13 @@
 
 <ul>
   <li>😄 ele/dele</li>
-  <li>📫 Meu contato: vieira.castro.1987@gmail.com ou https://www.linkedin.com/in/paulo-castro-579b592a/</li>
+  <li>📫 Meu contato: vieira.castro.1987@gmail.com</li>
   <li>🌱 Tenho revisto álgebra, álgebra linear e estudado técnicas de machine learning, econometria e ciências políticas.</li>
  </ul>
 
 <div>
   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=PauloRobertoVieiraDeCastro&theme=blue-green" />
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&theme=blue-green&langs_count=8" />
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoVieiraDeCastro&layout=compact&theme=blue-green&langs_count=8" />
 </div>
 
  
