@@ -40,7 +40,9 @@
   <a href="mailto: vieira.castro.1987@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<div>
+##
+<div style="text-align: center">
+  <h3>Contagem de visitas</h3>
   <img src="https://profile-counter.glitch.me/PauloRobertoVieiraDeCastro/count.svg"/>
 </div>
 
