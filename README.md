@@ -1,5 +1,5 @@
 <p>Olá, pessoal. Sejam bem-vindos e bem-vindas ao meu perfil.</p>
-<p>Sou formado em engenharia química pela UFRJ e análise de sistemas pela UNESA. Estou cursando pós-graduação em controle de qualidade na indústria química. Minha atividade remunerada é na área de avaliação de petróleos.</p>
+<p>Sou formado em engenharia química pela UFRJ e análise de sistemas pela UNESA. Possuo pós-graduação em controle de qualidade na indústria química e faço mestrado em engenharia química pela UERJ. Minha atividade remunerada é na área de avaliação de petróleos.</p>
 <p>Apesar de não ser um programador especializado, consigo transitar no front-end, com conhecimentos em HTML/CSS e JavaScript, além de Bootstrap e um pouco de jQuery. Planejo ampliar meus conhecimentos em front-end, através do framework React e Vue. Transito no back-end com conhecimentos em Python e php, além de um pouco de conhecimento em Fortran e Java. Em banco de dados, já trabalhei com MySQL e SQLite.</p>
 <p>Tenho interesse em atividades e desenvolvimento de códigos em machine learning, aplicados à engenharia química, sobretudo em termodinâmica e em quimiometria.</p>
 <p>Meu repositório está em construção. Mais materiais virão em breve.</p>
